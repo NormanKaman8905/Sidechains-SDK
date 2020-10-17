@@ -27,7 +27,7 @@ For more details see [zendoo-sc-cryptolib](https://github.com/HorizenOfficial/ze
 
 * Java 8 or newer (Java 11 recommended)
 * Scala 2.12.10+
-* Python 2.7
+* Python 2.7.1
 * Maven
 
 On some Linux OSs during backward transfers certificates proofs generation a extremely big RAM consumption may happen, that will lead to the process force killing by the OS.
